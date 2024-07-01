@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "NW\\": "src/NW/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.5"
+  }
+}

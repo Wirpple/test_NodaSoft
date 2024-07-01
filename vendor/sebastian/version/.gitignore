@@ -1,0 +1,34 @@
+# Ignore Composer dependencies
+/vendor/
+
+/composer.lock
+
+# Ignore PHPUnit test results
+/phpunit-result.cache
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+*.swp
+
+# Ignore system specific files
+.DS_Store
+Thumbs.db
+
+# Ignore autoload files
+/autoload.php
+
+# Ignore OS generated files
+*.bak
+*.tmp
+*.swp
+
+# Ignore other generated files
+*.cache
